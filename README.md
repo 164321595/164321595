@@ -43,32 +43,6 @@
 
 ---
 
-## 📚 Skill Tree（ACG 风格）
-
-Zviolin
-├── Game Dev (Unity)
-│ ├── C#
-│ ├── URP / HDRP
-│ └── Shader / VFX / Gameplay System
-│
-├── Front-end
-│ ├── Vue / React
-│ ├── Three.js / Canvas
-│ └── Tailwind / Motion UI
-│
-├── Backend (Go)
-│ ├── Gin / Fiber
-│ ├── Databases
-│ └── Microservices
-│
-└── AI / ML
-├── Medical Imaging
-├── Inference Services
-└── Data Pipelines
-
-
----
-
 ## ✨ 个人特点 Highlights
 
 - 🎨 **喜欢带点动漫感的技术表达**  
