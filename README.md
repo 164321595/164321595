@@ -1,21 +1,105 @@
-<h2 align="center">✨ Welcome to my little world ✨</h2>
+# 🎻 Zviolin — Code, Art & Infinite Worlds  
 
-<img align="right" src="https://i.imgur.com/E1v1Z6j.gif" width="220"/>
-
-### 🍡 你好，我是 YOUR_NAME
-
-- 🧋 喜欢写代码、画画、做奇奇怪怪的项目  
-- 🐾 使用 Vue / Go / Node  
-- 🌸 目标是做一个有趣的人  
+> *“技术可以构建世界，而我想让这些世界更有灵魂。”*  
+> — **Zviolin**
 
 ---
 
-### 🌈 Tech Stack
+## 🌌 About Me
 
-<img src="https://skillicons.dev/icons?i=vue,ts,html,css,js,nodejs,go,vite,tailwind" />
+你好，我是 **Zviolin** ——  
+一个把代码当作画笔、把系统当作世界观来搭建的创作者。
+
+专注于 **Unity 游戏开发、Web 前端、Go 后端、AI 技术融合**。  
+偏好 **动漫风格**、沉浸式体验、技术与艺术结合的创作方式。
 
 ---
 
-### 🍥 Stats
+## 🧭 技能方向 Skill Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=tokyonight" />
+### 🎮 **Unity Game Dev**
+- C# / 游戏交互逻辑  
+- Animator / Timeline / 物理系统  
+- URP / Shader Graph / 简易 VFX  
+- 3D 关卡与系统原型快速实现  
+
+### 🌐 **Front-end**
+- Vue 3 / Vite  
+- React 18 / Next.js  
+- Three.js / WebGL 场景  
+- TailwindCSS / 动效设计  
+
+### 🔧 **Back-end（Go）**
+- Gin / Fiber  
+- MySQL / MongoDB / Redis  
+- RESTful APIs / gRPC  
+- 微服务与工程结构设计  
+
+### 🤖 **AI & ML**
+- 模型推理服务部署  
+- 医学影像方向（BraTS, LIDC-IDRI, NSCLC）  
+- 数据处理工作流自动化  
+- AI × 游戏 / AI × Web 实验探索  
+
+---
+
+## 📚 Skill Tree（ACG 风格）
+
+Zviolin
+├── Game Dev (Unity)
+│ ├── C#
+│ ├── URP / HDRP
+│ └── Shader / VFX / Gameplay System
+│
+├── Front-end
+│ ├── Vue / React
+│ ├── Three.js / Canvas
+│ └── Tailwind / Motion UI
+│
+├── Backend (Go)
+│ ├── Gin / Fiber
+│ ├── Databases
+│ └── Microservices
+│
+└── AI / ML
+├── Medical Imaging
+├── Inference Services
+└── Data Pipelines
+
+
+---
+
+## ✨ 个人特点 Highlights
+
+- 🎨 **喜欢带点动漫感的技术表达**  
+- 🔥 **灵感驱动型开发者：想到什么就立刻做 Demo**  
+- 🧪 **喜欢探索“非常规 Web”与新交互**  
+- 🤝 **偏向自研，不依赖重框架，喜欢干净结构**  
+- 🧠 **长期关注 AI × 游戏 / AI × 3D / AI × Web**  
+
+---
+
+## 🎯 正在探索的方向
+
+- Unity + AI 的交互式角色  
+- 非单页、多维度叙事网站架构  
+- AIGC × 游戏内容生成  
+- 自研 Go 微服务体系  
+- Web3D 沉浸式界面  
+- 数据处理 + AI 自动化流程  
+
+---
+
+## 📞 Contact Me
+
+如果你对 **游戏原型、AI、Web、后端、奇怪的创意项目** 感兴趣，可以随时联系我！
+
+- 📮 Email: *你的邮箱写这里*
+
+---
+
+## 🐾 最后
+
+> **代码是武器，世界是舞台，灵感是驱动力。**  
+> 我是 **Zviolin**，正在用技术构建属于自己的多维宇宙。
+
