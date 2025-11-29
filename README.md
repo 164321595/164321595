@@ -1,79 +1,54 @@
-# 🎻 Zviolin — Code, Art & Infinite Worlds  
+# 🎻 Zviolin — Code × Game × AI × Anime
 
-> *“技术可以构建世界，而我想让这些世界更有灵魂。”*  
-> — **Zviolin**
+> *“我在代码里造世界，在世界里藏灵魂。”*  
+> — Zviolin
 
 ---
 
 ## 🌌 About Me
+嗨，我是 **Zviolin**。  
+喜欢用代码造点 **有趣、有范、有灵魂** 的东西。
 
-你好，我是 **Zviolin** ——  
-一个把代码当作画笔、把系统当作世界观来搭建的创作者。
-
-专注于 **Unity 游戏开发、Web 前端、Go 后端、AI 技术融合**。  
-偏好 **动漫风格**、沉浸式体验、技术与艺术结合的创作方式。
-
----
-
-## 🧭 技能方向 Skill Overview
-
-### 🎮 **Unity Game Dev**
-- C# / 游戏交互逻辑  
-- Animator / Timeline / 物理系统  
-- URP / Shader Graph / 简易 VFX  
-- 3D 关卡与系统原型快速实现  
-
-### 🌐 **Front-end**
-- Vue 3 / Vite  
-- React 18 / Next.js  
-- Three.js / WebGL 场景  
-- TailwindCSS / 动效设计  
-
-### 🔧 **Back-end（Go）**
-- Gin / Fiber  
-- MySQL / MongoDB / Redis  
-- RESTful APIs / gRPC  
-- 微服务与工程结构设计  
-
-### 🤖 **AI & ML**
-- 模型推理服务部署  
-- 医学影像方向（BraTS, LIDC-IDRI, NSCLC）  
-- 数据处理工作流自动化  
-- AI × 游戏 / AI × Web 实验探索  
+方向包括：**Unity / 前端 / Go 后端 / AI**  
+风格偏：**动漫感 × 创意实验 × 技术美学**
 
 ---
 
-## ✨ 个人特点 Highlights
+## 🛠️ Skills Snapshot
 
-- 🎨 **喜欢带点动漫感的技术表达**  
-- 🔥 **灵感驱动型开发者：想到什么就立刻做 Demo**  
-- 🧪 **喜欢探索“非常规 Web”与新交互**  
-- 🤝 **偏向自研，不依赖重框架，喜欢干净结构**  
-- 🧠 **长期关注 AI × 游戏 / AI × 3D / AI × Web**  
-
----
-
-## 🎯 正在探索的方向
-
-- Unity + AI 的交互式角色  
-- 非单页、多维度叙事网站架构  
-- AIGC × 游戏内容生成  
-- 自研 Go 微服务体系  
-- Web3D 沉浸式界面  
-- 数据处理 + AI 自动化流程  
+- 🎮 **Unity**：C#、动画系统、URP、Shader、VFX、小型原型快速实现  
+- 🌐 **Front-end**：Vue / React、Three.js、Tailwind、炫酷动效  
+- 🔧 **Go Backend**：Gin、gRPC、Redis、服务结构设计  
+- 🤖 **AI**：医学影像、推理部署、AI × 游戏 × Web 实验
 
 ---
 
-## 📞 Contact Me
+## ✨ What I Like
 
-如果你对 **游戏原型、AI、Web、后端、奇怪的创意项目** 感兴趣，可以随时联系我！
-
-- 📮 Email: *你的邮箱写这里*
+- 🎨 技术也要好看  
+- ⚡ 想到就写，不拖延  
+- 🧪 喜欢做“非常规”的网页  
+- 🎮 AI + 游戏是长期兴趣  
+- ☕ 静下心写自己的系统  
 
 ---
 
-## 🐾 最后
+## 🚀 Current Explorations
 
-> **代码是武器，世界是舞台，灵感是驱动力。**  
-> 我是 **Zviolin**，正在用技术构建属于自己的多维宇宙。
+- Unity × AI 角色  
+- Web3D 动漫风交互  
+- AIGC 游戏内容生成  
+- Go 微服务生态自建  
 
+---
+
+## 📮 Contact
+
+- Email：*164321595Q@qq.com*
+
+---
+
+## 🐾 Final
+
+**代码是武器，创意是引擎。**  
+我是 **Zviolin**，持续构建我的数字宇宙中。
